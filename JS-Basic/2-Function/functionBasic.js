@@ -190,7 +190,7 @@
 
 
 
-// /* Returning frunction from another function */
+// /* Returning function from another function */
 // function preturn(a,b){
 //     console.log('Super:: ',a+b);
 //     return function(a,b){
